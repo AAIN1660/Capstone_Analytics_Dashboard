@@ -12,13 +12,13 @@
 | Dimension | Score | Justification | Evidence |
 |-----------|-------|---------------|----------|
 | Planning Quality | 3 | Complete PRD, architecture, and spec with acceptance criteria | `02_PRD.md`, `04_VIBE_CODING_SPEC.md` |
-| Plan Mode Discipline | 3 | Phases 1–4 completed before implementation | `01_IDEA_BRIEF.md` through `05_PROMPT_LIBRARY.md` |
+| Plan Mode Discipline | 3 | Phases 1-4 completed before implementation | `01_IDEA_BRIEF.md` through `05_PROMPT_LIBRARY.md` |
 | Prompt Engineering | 3 | 10 annotated Composer-ready templates | `05_PROMPT_LIBRARY.md` |
 | Architecture Quality | 3 | Clear layers; APIs fully specified | `03_ARCHITECTURE.md` |
 | Code Organisation | 3 | Separated services, routes, components | `metricpulse-server/src/`, `metricpulse-client/src/` |
 | Error Handling | 3 | User-friendly ErrorBanner; API error codes | `ErrorBanner.tsx`, `errorHandler.ts` |
 | Security | 2 | Checklist done; no auth (accepted v1 risk) | `README.md` Security Notes |
-| Testing | 3 | Service unit + 3 endpoint integration tests | `npm test` — 10 passing |
+| Testing | 3 | Service unit + 3 endpoint integration tests | `npm test` - 10 passing |
 | Documentation | 3 | README + API reference | `README.md`, `docs/API.md` |
 | Deployment | 2 | Deploy guide written; URL pending user deploy | `README.md` Deployment |
 | Debugging Recovery | 3 | 4 failures with pattern IDs | `06_DEBUGGING_JOURNAL.md` |
@@ -26,7 +26,7 @@
 | Product Thinking | 3 | Solves stakeholder reporting problem minimally | `01_IDEA_BRIEF.md` |
 | Retrospective | 3 | Honest, specific, 200+ words | `07_RETROSPECTIVE.md` |
 
-**TOTAL: 40 / 56** (71% — Professional Certificate threshold)
+**TOTAL: 40 / 56** (71% - Professional Certificate threshold)
 
 ---
 
