@@ -10,23 +10,7 @@ MetricPulse is a read-only e-commerce sales analytics dashboard built for Module
 - Validation: Zod
 - Testing: Vitest, Supertest
 
-## Project Structure
 
-```text
-module-15/
-?? metricpulse-client/   # React dashboard
-?? metricpulse-server/   # Express API
-?? docs/                 # API documentation
-?? 01_IDEA_BRIEF.md
-?? 02_PRD.md
-?? 03_ARCHITECTURE.md
-?? 04_VIBE_CODING_SPEC.md
-?? 05_PROMPT_LIBRARY.md
-?? 06_DEBUGGING_JOURNAL.md
-?? 07_RETROSPECTIVE.md
-?? 08_SELF_ASSESSMENT.md
-?? README.md
-```
 
 ## Features
 
